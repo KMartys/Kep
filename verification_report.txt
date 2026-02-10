@@ -1,0 +1,15 @@
+﻿KEPWARE CONFIG MANAGER - RAPORT WERYFIKACJI
+=============================================
+Data: 2026-02-10 11:40:24
+
+BLEDY: 0
+
+
+OSTRZEZENIA: 0
+
+
+NIEPOTRZEBNE PLIKI: 0
+
+
+GIT STATUS:
+On branch main Your branch is up to date with 'origin/main'.  Changes not staged for commit:   (use "git add/rm <file>..." to update what will be committed)   (use "git restore <file>..." to discard changes in working directory) 	modified:   backend/app.py 	deleted:    backend/kepware-backend.py 	deleted:    kepware-backend-requirements.txt 	deleted:    kepware-config-manager.tsx 	deleted:    kepware-frontend-index-css.css 	deleted:    kepware-frontend-index-js.js 	deleted:    kepware-frontend-package.json 	deleted:    kepware-github-readme.md 	deleted:    kepware-github-upload-guide.md  Untracked files:   (use "git add <file>..." to include in what will be committed) 	README.md 	backend/requirements.txt 	frontend/package.json 	frontend/src/ 	install.bat 	verification_report.txt  no changes added to commit (use "git add" and/or "git commit -a")
